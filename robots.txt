@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://layumohefu.pages.dev/sitemap.xml
